@@ -20,3 +20,5 @@ Este archivo README.md es para la actividad, **Act 2.4 - GitHub Avanzado**, el e
     </ul>
 </body>
 ```
+
+Aquí tenéis la página para poder acceder a ella [https://trierner.github.io/dawAct2_3/](https://trierner.github.io/dawAct2_3/).
